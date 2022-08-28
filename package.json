@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "start":  "vite"
+    "start":  ""
   },
   "dependencies": {
     "@types/socket.io": "^3.0.2",
